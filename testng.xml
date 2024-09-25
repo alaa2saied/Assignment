@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Alaa/Downloads/GitMavenProject/PracticeSoftwareTesting/src/test/java/com/sdetadda/allure">
                 <classes>
-                    <class name="Tests.HomeTest"/ce>
+                    <class name="Tests.HomeTest"/>
 
                 </classes>
     </test></suite>
